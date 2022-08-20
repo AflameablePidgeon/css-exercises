@@ -2,3 +2,12 @@
 font-family: verdana, DejaVu Sans, sans-serif;
 }
 
+#secondElement { color: blue; font-size: 36px;
+
+}
+
+#thirdElement { font-size: 24px; }
+
+#fourthElement { background-color: rgb(47, 249, 36); font-weight: bold;
+font-size: 24px;}
+
